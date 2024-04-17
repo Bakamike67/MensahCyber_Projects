@@ -1,6 +1,10 @@
-# Mensah_Cyber-Projects
-<h1>Hello, I'm Michael </h1>
-<p>Here is a collection of my projects and contributions to the cyber-security community.<br> Feel free to look around for some inspiration!</p>
+<h1>Hello, I'm Michael Mensah</h1>
+<a href="https://linkedin.com/in/michael-mensah0/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<p>Hi, my name is Michael Mensah, I am a recent graduate from Towson University with a profound interest in technology and a dedication to securing devices of all types.</p>
+
+<h2>Objective</h2>
+<p>My journey in information technology has led me to develop a deep passion for cybersecurity, and I am eager to transition into the field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.</p>
 
 <h2> Cybersecurity Projects:</h2>
 
@@ -11,9 +15,4 @@
 
 <h2>Publishing contributions</h2>
 
--[
-
-<h2>Connect with me</h2>
-
--[LinkedIn](www.linkedin.com/in/michael-mensah0)
   
